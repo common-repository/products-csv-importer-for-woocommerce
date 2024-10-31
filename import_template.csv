@@ -1,0 +1,4 @@
+Unique ID,Category,Weight,Product Name,SKU,Description,Images,Stock,Price,Sale Price,Size,Color,,Custom Meta 1,Custom Meta 2
+1,Apparel|Men's Apparel,2.2,Cotton T-Shirt,T001-MR,This is an awesome T-Shirt!,T-Shirt.jpg|T-Shirt2.png,8,15,12,M,Red,,,
+2,Apparel|Men's Apparel,2.1,Cotton T-Shirt,T001-MB,This is another awesome T-Shirt!,T-Shirt.jpg|T-Shirt2.png,3,15,,M,Blue,,,
+3,Apparel|Toddler,0.8,Dinosaur Onesie,DO482-2,This is a cute onesie with dinosaurs on it!,Onesie.jpeg,5,12.5,,8-12 Months,,,Factory: Onesie Manufacturing Inc.,
